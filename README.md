@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ThomasGnomas
-- 👀 I’m interested in programming and gaming
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning c# and basics of programming
-- 📫 You can reach me on discord ThomasGnomas#7330
 
 <!---
 ThomasGnomas/ThomasGnomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
