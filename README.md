@@ -1,5 +1,5 @@
-<!---
 - 👋 Hi, I’m @ThomasGnomas
+<!---
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c# and basics of programming
 --->
